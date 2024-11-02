@@ -20,7 +20,7 @@ I suggest reading the "Campaign read me" file first and then looking at the "cre
 
 ### **World Overview**  
 A quick introduction to Orosveil’s history, lands, and cultures. Get familiar with the unique setting of this campaign.
-### [[world/]]
+### [[World/]]
 
 Don't feel obligated to read into the lore if you don't want to. It's mostly there if you want to look into something. As the campaign progress more will be added to this section as you the players discover stuff about the world.
 
