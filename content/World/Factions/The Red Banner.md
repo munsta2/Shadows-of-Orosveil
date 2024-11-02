@@ -1,7 +1,7 @@
 
 ![[The Red Banner.webp | center | 250]]
 # Faction Overview
-
+Making a change to test
 **Faction Type**: Mercenary and Bounty Hunter Guild  
 **Reputation**: Ruthless, efficient, and morally flexible
 ### **Origins and Organization**
