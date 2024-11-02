@@ -1,7 +1,6 @@
 ---
 title: Shadows of Orosveil
-tags:
-  - plugin
+tags: []
 ---
 ### **Welcome to Orosveil**
 
