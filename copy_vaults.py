@@ -1,6 +1,6 @@
 import shutil
 import os
-
+import subprocess
 import shutil
 import os
 
@@ -59,6 +59,22 @@ def copy_folder(source_dir, destination_dir, overwrite=False):
     except FileExistsError:
         print(f"Folder '{dest_folder}' already exists. Use overwrite=True to replace it.")
 
+
+
+
+def run_powershell_command(command):
+    """
+    Runs a PowerShell command from Python.
+
+    Parameters:
+    - command (str): The PowerShell command to execute.
+
+    Returns:
+    - The output of the command as a string.
+    """
+    result = subprocess.run(["powershell", "-Command", command], capture_output=True, text=True)
+    return result.stdout
+
 # Example usage:
 # copy_folder('/path/to/source_folder', '/path/to/destination', overwrite=True)
 
@@ -70,5 +86,7 @@ def copy_folder(source_dir, destination_dir, overwrite=False):
 # copy_folder("D:\Jesse\Documents\Orosveil\Orosveil Player’s Handbook", "D:\Jesse\Documents\quartz\content",True)
 
 copy_folder("../Orosveil/World","./content",True)
-
+copy_folder("../Orosveil/Images","./content",True)
+copy_folder("../Orosveil/Orosveil Player’s Handbook","./content",True)
 create_markdown_file()
+run_powershell_command("npx quartz sync")
