@@ -1,8 +1,4 @@
 
----
-draft: true
----
-
 ![[The Red Banner.webp | center | 250]]
 # Faction Overview
 
