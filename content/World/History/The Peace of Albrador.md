@@ -1,0 +1,1 @@
+A rare period of relative peace came during the rule of the [[Albrador Dynasty]], a powerful royal family that united several kingdoms under one banner. For nearly 200 years, their reign brought stability, though their rule was marked by harsh laws and strict control over magic. When the dynasty fell, the continent descended back into chaos, as old rivalries reignited.

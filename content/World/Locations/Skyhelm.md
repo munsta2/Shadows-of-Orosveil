@@ -1,0 +1,10 @@
+## overview
+ 
+ Skyhelm, the majestic capital of Valcrus, stands as a symbol of power and nobility, perched atop a sprawling plateau surrounded by natural defenses of steep cliffs and shimmering rivers. Its location, high above the surrounding plains, gives it a natural vantage point, allowing its watchtowers and citadels to monitor the vast expanse of the kingdom below. The city is known for its sprawling stone architecture, elegant spires, and banners bearing the sigil of Valcrus—a silver eagle soaring above a crimson field.
+#### Districts:
+
+1. **The High Court**: The uppermost tier, home to the **Silver Keep**, the grand palace of the royal family, and the **Council of Shields**, where the most influential noble houses of Valcrus meet. The streets are lined with marble statues of great kings, queens, and generals of Valcrus' history. The palace itself is a formidable fortress adorned with intricate carvings of legendary battles and the deeds of past monarchs.
+
+2. **The Radiant District**: This district is dedicated to the **Church of the Everlight**, where the grand cathedral towers above the city. The cathedral is a masterpiece of stone and stained glass, where sunlight filters in, casting brilliant patterns across the hallowed halls. The Radiant District houses the living quarters of high-ranking clergy, schools of theology, and places for the common folk to seek blessings, healing, or divine guidance. Pilgrims from across the kingdom and beyond come to pay their respects to the Church, reinforcing the deep ties between the Everlight religion and the Valcrus monarchy.
+
+3. **The Crown Ward**: The heart of Skyhelm’s economy, this district is bustling with activity as traders, artisans, and merchants flock to the central marketplace. The grand bazaar, a vibrant space filled with colorful stalls, offers goods from all corners of Orosveil, from fine silks and spices to weapons forged by the finest blacksmiths in Valcrus. Banks, guilds, and trading companies also make their home here, ensuring the kingdom’s prosperity. This district thrives on commerce and is a hub for economic negotiations and trade.
