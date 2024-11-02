@@ -1,0 +1,9 @@
+The Albrador Dynasty, once the most powerful and revered line in Orosveil, ruled for centuries under the belief that their right to the throne was divinely appointed by the Everlight. With bloodlines tracing back to the unification of Valtheron, the Albradors governed with a balance of strength, wisdom, and tradition. For generations, they held the kingdom together with a firm yet just hand, and their rule brought an era of prosperity to Orosveil.
+
+Yet, as the dynasty grew in wealth and influence, cracks began to form within. In their later years, the Albradors became embroiled in power struggles and infighting among their own family. Factions emerged within the dynasty, each claiming the throne was their birthright. Key noble families allied with different branches of the Albrador line, and in the shadows, advisors and military leaders were pitted against one another.
+
+Rumors of betrayal spread through the court, with whispers that some members of the dynasty were plotting to usurp the throne. Others sought to establish their own rule, aiming to divide the kingdom under separate banners. The Albradors, who once commanded unity, fell victim to the very ambition and greed they had long suppressed among their subjects.
+
+The final blow came when the High Chamberlain, a trusted advisor to the dynasty, betrayed the royal family, opening the palace gates to a faction loyal to his branch of the family. In a bloody coup, the palace fell, and the ruling Albrador monarch was overthrown. The family scattered, with claimants to the throne fleeing to distant strongholds and calling upon allies for support.
+
+The the fall of the Albrador's left a power vacuum which lead to eventually to [[The War of the Hundred Crowns]]

@@ -1,0 +1,5 @@
+## Brief Overview
+
+The fall of the Albrador line left a power vacuum, sparking what became known as the War of a Hundred Crowns. Nobles, regional leaders, and ambitious generals each declared themselves rightful heirs to the throne, donning crowns and leading their forces into battle. This chaotic conflict lasted for decades, marked by shifting alliances, betrayals, and a cycle of sieges and reprisals.
+
+The land was scarred by war, cities changed hands countless times, and the people of Orosveil bore the brunt of the violence. Kingdoms rose and fell within a single generation, as contenders for the crown tried to assert dominance over what was once a unified land. The church of the Everlight, once a staunch supporter of the Albradors, took a neutral stance, refusing to support any one faction.

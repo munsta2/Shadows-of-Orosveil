@@ -1,0 +1,1 @@
+A dense forest where magic is particularly strong. Strange lights or illusions confuse travelers, and it’s rumored to house a portal to the Feywild or otherworldly beings.
