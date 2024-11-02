@@ -29,7 +29,7 @@ def create_markdown_file():
             file.write(content)
         print(f"{file_path} created successfully.")
 
-    \
+    
 
 def copy_folder(source_dir, destination_dir, overwrite=False):
     """
