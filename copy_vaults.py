@@ -4,6 +4,22 @@ import os
 import shutil
 import os
 
+
+def populated_index_files():
+    pass
+
+def create_markdown_file(filename, content):
+    """
+    Creates a .md file with the specified filename and writes content to it.
+
+    Parameters:
+    - filename (str): The name of the markdown file (e.g., "example.md").
+    - content (str): The content to write into the markdown file.
+    """
+    with open(filename, 'w') as file:
+        file.write(content)
+    print(f"{filename} created successfully.")
+
 def copy_folder(source_dir, destination_dir, overwrite=False):
     """
     Copies a folder from the source directory to the destination directory.
@@ -37,7 +53,11 @@ def copy_folder(source_dir, destination_dir, overwrite=False):
 
 
 # Example usage:
-# bulk_copy('/path/to/source', '/path/to/destination', overwrite=True)
-copy_folder("D:\Jesse\Documents\Orosveil\World", "D:\Jesse\Documents\quartz\content",True)
-copy_folder("D:\Jesse\Documents\Orosveil\Images", "D:\Jesse\Documents\quartz\content",True)
-copy_folder("D:\Jesse\Documents\Orosveil\Orosveil Player’s Handbook", "D:\Jesse\Documents\quartz\content",True)
+# # bulk_copy('/path/to/source', '/path/to/destination', overwrite=True)
+# copy_folder("D:\Jesse\Documents\Orosveil\World", "D:\Jesse\Documents\quartz\content",True)
+# copy_folder("D:\Jesse\Documents\Orosveil\Images", "D:\Jesse\Documents\quartz\content",True)
+# copy_folder("D:\Jesse\Documents\Orosveil\Orosveil Player’s Handbook", "D:\Jesse\Documents\quartz\content",True)
+
+content = "--- title:{} ---".format("History")
+
+create_markdown_file("Example.md",content)
