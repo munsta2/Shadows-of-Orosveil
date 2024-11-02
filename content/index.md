@@ -3,4 +3,4 @@ title: Shadows of Orosveil
 tags:
   - plugin
 ---
-welcome to the index
+Welcome to the Campaign wiki!

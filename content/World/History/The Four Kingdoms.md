@@ -1,4 +1,0 @@
-
-After decades of bloody conflict, the War of a Hundred Crowns finally subsided. Four primary kingdoms emerged from the chaos, each ruled by powerful leaders who had either outlasted or outmaneuvered their rivals. These kingdoms were forged from the ashes of the Albrador dynasty, with each claiming some ancestral connection to the fallen line. While their rulers bear no direct relation to the Albrador name, they continue to vie for legitimacy and influence, carrying on a legacy marked by both the achievements and failures of the Albrador line.
-
-Today, the story of the Albradors serves as a cautionary tale. Their legacy is a reminder of the dangers of unchecked ambition and the tragic cost of betrayal. Yet, even in the current era, whispers persist of surviving descendants, scattered artifacts, or hidden heirs who might one day rise to reclaim the Albrador throne.

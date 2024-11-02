@@ -1,5 +1,0 @@
-#history #religon #NPC
-
-**Soltheos** is the First Prophet of the Church of the Everlight, regarded as the mortal chosen by the Everlight to bring its divine teachings to the world. He is often depicted as a humble yet powerful figure, bathed in radiant light, carrying the sacred message of order, purity, and divine authority. Soltheos is said to have received visions directly from the Everlight, guiding him to unite scattered peoples under the faith and establish the foundation of the church. His influence shaped the moral and political landscape of Orosveil, with his teachings becoming the cornerstone of the Albrador dynasty’s divine right to rule.
-
-Believed to have ascended to the **Radiant Expanse** after his death, Soltheos is venerated as a saint and an eternal guardian of the Everlight’s will. His legacy is honored through sacred texts and hymns, and his life serves as a symbol of unwavering devotion to the light.
