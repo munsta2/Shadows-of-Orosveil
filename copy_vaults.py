@@ -8,7 +8,7 @@ import os
 def populated_index_files():
     pass
 
-def create_markdown_file(filename, content):
+def create_markdown_file():
     """
     Creates a .md file with the specified filename and writes content to it.
 
@@ -16,9 +16,20 @@ def create_markdown_file(filename, content):
     - filename (str): The name of the markdown file (e.g., "example.md").
     - content (str): The content to write into the markdown file.
     """
-    with open(filename, 'w') as file:
-        file.write(content)
-    print(f"{filename} created successfully.")
+    folder_names = os.listdir("./content/world")
+    print(folder_names)
+
+    for folder in folder_names:
+
+        folder_path = "./content/World/{}".format(folder)
+        filename = "index.md"
+        content = "---\n title: {} \n---".format(folder)
+        file_path = os.path.join(folder_path, filename)
+        with open(file_path, 'w') as file:
+            file.write(content)
+        print(f"{file_path} created successfully.")
+
+    \
 
 def copy_folder(source_dir, destination_dir, overwrite=False):
     """
@@ -58,6 +69,4 @@ def copy_folder(source_dir, destination_dir, overwrite=False):
 # copy_folder("D:\Jesse\Documents\Orosveil\Images", "D:\Jesse\Documents\quartz\content",True)
 # copy_folder("D:\Jesse\Documents\Orosveil\Orosveil Player’s Handbook", "D:\Jesse\Documents\quartz\content",True)
 
-content = "--- title:{} ---".format("History")
-
-create_markdown_file("Example.md",content)
+create_markdown_file()
