@@ -71,4 +71,4 @@ def copy_folder(source_dir, destination_dir, overwrite=False):
 
 copy_folder("../Orosveil/World","./content",True)
 
-# create_markdown_file()
+create_markdown_file()
