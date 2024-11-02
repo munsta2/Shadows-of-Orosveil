@@ -69,4 +69,6 @@ def copy_folder(source_dir, destination_dir, overwrite=False):
 # copy_folder("D:\Jesse\Documents\Orosveil\Images", "D:\Jesse\Documents\quartz\content",True)
 # copy_folder("D:\Jesse\Documents\Orosveil\Orosveil Player’s Handbook", "D:\Jesse\Documents\quartz\content",True)
 
-create_markdown_file()
+copy_folder("../Orosveil/World","./content",True)
+
+# create_markdown_file()
