@@ -2,7 +2,6 @@
 
 as the campaign goes I will be introducing some Home Brew rules to the campaign. These rules will mostly be in place to help make the campaign run smoother or put some stuff in place for when the base rule set is unclear
 
-- [ ]
 
 ### <u>Rule 1</u>
 
