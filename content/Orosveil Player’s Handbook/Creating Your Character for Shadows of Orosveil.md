@@ -1,9 +1,9 @@
 
-For this campaign I would like you as the players to put more time and thought into your characters. A character in DnD is more then just a collection of stats on a sheet but rather living breathing thing. Some coming up with some basic backstory and motivations are great ways to make them come alive!
+For this campaign I would like you as the players to put more time and thought into your characters. A character in DnD is more then just a collection of stats on a sheet but rather living breathing thing. So coming up with some basic backstory and motivations are great ways to make them come alive!
 
 If you want your characters backstory to tie in more with the world Orosveil feel free to read the some of the lore of the world that I have provided. Don't hesitate to ask me any question or if you want to run some character ideas off of me.
 
-After you create the basic character template (race, class, stats, etc.) I want you to answer these five questions. Spend as much time as you feel necessary to flesh out your character!
+After you create the basic character template (race, class, stats, etc.) I want you to answer these six questions. Spend as much time as you feel necessary to flesh out your character!
 
 **Step 1: Write 5 background and concept elements that you feel are important to your image of the character. These can be a concept overview, a list of important life events, a physical description, a personality profile...whatever you need to get an image in your mind. 5 is just a minimum...more elements are encouraged!**
 
@@ -15,7 +15,9 @@ After you create the basic character template (race, class, stats, etc.) I want 
 
 **Step 5: Describe three memories, mannerisms, or quirks that your character has. They don't have to be elaborate, but they should provide some context and flavour.**
 
-When your character is fully complete if you could please send me these 5 questions along with your backstory and character name that would be great!
+**Step 6: Why has your character decided to join the silver circle?**
+
+When your character is fully complete if you could please send me these 6 questions along with your backstory and character name that would be great!
 
 ## <u>Character creation guide</u>
 
@@ -37,7 +39,7 @@ For deciding abilities scores were going to use a point buy system:
     - **15**: 9 points
 - **Apply Racial Bonuses**: After assigning points, add any racial bonuses to your scores (these can raise a score above 15).
 if you have any question on how the point buy system works reach out to me! also the PHB describes this in more detail
-## <u>Character tracker options</u>
+## <u>Character tracking options</u>
 
 1. Pen and Paper - if you prefer classic pen and paper option here is the regular character sheet in which you can download [character sheet](https://the-eye.eu/public/Books/rpg.rem.uz/Dungeons%20%26%20Dragons/D%26D%205th%20Edition/Character%20Sheets/Character%20Sheet%20%28Official%29.pdf) The form is pdf fillable however the font is big so I still recommend you print it out if want to go this option. 
 
