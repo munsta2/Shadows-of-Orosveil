@@ -1,7 +1,9 @@
 ### Basic Information
 ---
 **Region**: [[Valtheron]]
+
 **Type**: Fortress city
+
 **Population**: Approximately 15,000, predominantly dwarves with a mix of humans and gnomes
 
 ### Description
@@ -28,5 +30,7 @@ Stone Hold is a fortress city in Valtheron, known for its resilience and martial
 ### Inhabitants and Culture
 ---
 **Demographics**:  : Predominantly dwarves, with a minority of humans and gnomes. The population consists mainly of craftsmen, soldiers, and miners.
+
 **Culture and Customs**: Stone Hold’s culture is defined by honor, loyalty, and exceptional craftsmanship. The city’s people take immense pride in their work and heritage, with strong traditions of ancestor worship and storytelling through carvings and art. The [[Stoneguard Warriors]] are held in high esteem for their dedication to protecting the city. Festivities often include grand feasts, songs recounting heroic deeds, and displays of skill and artistry.
+
 **Languages Spoken**: Dwarvish, Common, and Gnomish.
