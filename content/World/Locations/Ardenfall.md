@@ -28,5 +28,7 @@
 ### Inhabitants and Culture
 ---
 **Demographics**:  Primarily humans, dwarves, and halflings, with a significant number of elves, half-elves, and tieflings, due to the city’s cosmopolitan trade culture.
+
 **Culture and Customs**: Ardenfall is defined by its mercantile nature. The people value trade, diplomacy, and negotiation, with wealth seen as a sign of status and influence. Public auctions and trade events are popular and often well-attended, while private meetings and backroom deals shape the city’s real power dynamics. The people here are resourceful and pragmatic, driven by a strong sense of opportunity and self-preservation.
+
 **Languages Spoken**: Common, Dwarvish, Elvish, and a trade dialect specific to Ardenfall’s merchants and sailors, which incorporates phrases from Levantor’s seafarers.
