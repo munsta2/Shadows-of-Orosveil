@@ -3,7 +3,7 @@ import os
 import subprocess
 import shutil
 import os
-
+import sys
 
 def populated_index_files():
     pass
@@ -84,4 +84,8 @@ copy_folder("../Orosveil/World","./content",True)
 copy_folder("../Orosveil/Images","./content",True)
 copy_folder("../Orosveil/Orosveil Player’s Handbook","./content",True)
 create_markdown_file()
-run_powershell_command("npx quartz sync")
+argument = None
+if len(sys.argv) > 1:
+    argument = sys.argv[1]
+if argument == "push":
+    run_powershell_command("npx quartz sync")
