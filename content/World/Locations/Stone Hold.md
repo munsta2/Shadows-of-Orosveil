@@ -1,8 +1,10 @@
 ### Basic Information
 ---
 **Region**: [[Valtheron]]
+
 **Type**: Fortress city
-**Population**: Approximately 15,000, predominantly dwarves with a mix of humans and gnomes    tttttttttttttttttttttttttttttttttttttttttttttttttt               
+
+**Population**: Approximately 15,000, predominantly dwarves with a mix of humans and gnomes         
 
 ### Description
 ---
