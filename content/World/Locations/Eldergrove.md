@@ -1,8 +1,8 @@
 ### Basic Information
 ---
-**Region**: [[Valtheron]]
-**Type**: Kingdom within an ancient forest
-**Population**: Approximately 10,000, comprised of the Wildborn—druids, hunters, nature-priests, and those who have embraced life within the forest’s deep embrace.
+- **Region**: [[Valtheron]]
+- **Type**: Kingdom within an ancient forest
+- **Population**: Approximately 10,000, comprised of the Wildborn—druids, hunters, nature-priests, and those who have embraced life within the forest’s deep embrace.
 
 ### Description
 ---
@@ -25,9 +25,9 @@ _The Eldergrove is divided into natural sections rather than formal districts, d
 5. **The Deepwood Dwellings** – Residential areas where the Wildborn live in homes crafted from trees and natural materials, seamlessly integrated into the forest.
 ### Inhabitants and Culture
 ---
-**Demographics**:  Predominantly humans and elves, with half-elves and other forest-adapted races. The people are warriors, druids, hunters, and nature-priests.
-**Culture and Customs**:  The Wildborn live by the cycles of nature, celebrating seasonal changes with grand rituals and festivals. They are fiercely protective of their home and use powerful druidic magic to guard it. Storytelling, music, and dance are integral, often centered around tales of their ancestors’ bond with the forest and the spirits that guide them.
-**Languages Spoken**: Druidic, Sylvan, and Common.
+- **Demographics**:  Predominantly humans and elves, with half-elves and other forest-adapted races. The people are warriors, druids, hunters, and nature-priests.
+- **Culture and Customs**:  The Wildborn live by the cycles of nature, celebrating seasonal changes with grand rituals and festivals. They are fiercely protective of their home and use powerful druidic magic to guard it. Storytelling, music, and dance are integral, often centered around tales of their ancestors’ bond with the forest and the spirits that guide them.
+- **Languages Spoken**: Druidic, Sylvan, and Common.
 
 **Local Legends**:  
 Tales of the **Green Sentinel**, a spirit guardian that awakens only when the Eldergrove faces its greatest peril.
