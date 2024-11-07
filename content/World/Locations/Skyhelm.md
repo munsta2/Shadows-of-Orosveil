@@ -1,6 +1,6 @@
 ### Basic Information
 ---
-**Region**: Valtheron  
+**Region**: [[Valtheron]]  
 **Type**: Capital city  
 **Population**: Approximately 40,000, predominantly humans, with significant numbers of elves and dwarves
 
