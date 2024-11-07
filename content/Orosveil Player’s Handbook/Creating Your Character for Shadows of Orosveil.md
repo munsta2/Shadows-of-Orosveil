@@ -5,6 +5,8 @@ If you want your characters backstory to tie in more with the world Orosveil fee
 
 After you create the basic character template (race, class, stats, etc.) I want you to answer these six questions. Spend as much time as you feel necessary to flesh out your character!
 
+Something to keep in mind while creating your characters is the way I'm starting off the campaign is that all of you will be new initiates to [[The Silver Circle]] an adventuring guild based on the continent of [[Valtheron]]. 
+
 **Step 1: Write 5 background and concept elements that you feel are important to your image of the character. These can be a concept overview, a list of important life events, a physical description, a personality profile...whatever you need to get an image in your mind. 5 is just a minimum...more elements are encouraged!**
 
 **Step 2: List at least two goals for the character. At least one of these goals should be one that the character has, while another should be one that you, as a player, want to see developed over the course of the game.**
