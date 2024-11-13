@@ -8,6 +8,7 @@
 ---
 **Overview**:
 The Eldergrove, known as the heart of **The Wildlands of Eldoria**, is a kingdom hidden within the dense northern forests of Valtheron. This realm is governed by druids and nature-priests, who hold the balance of nature as sacred. The people, called the Wildborn, live in harmony with the forest, creating homes in the trees and hidden clearings. The Eldergrove is a mystical place, where the air is thick with enchantment and ancient power flows through the roots and leaves.
+
 **Key landmarks**:
 - **The Elderheart Citadel**: The central seat of power, a massive tree structure that serves as both the ruling hall and spiritual center.
 - **Sacred Glades**: Small, hidden sanctuaries used for rituals, meditation, and communing with the spirits of nature.
