@@ -22,6 +22,8 @@ Current guild Master:  [[Thalric Ironspire]]
 
 ### <u>Guild Ranks</u>
 
+When first arriving to the guild all members will be considered "initiates" until they have proven themselves to the guild
+
 1. **Novice**
 	- **Description**: Novices are new recruits just entering the guild. They might be fresh adventurers or seasoned individuals who have yet to prove their skills within the guild’s standards.
 	- **Responsibilities**: Assigned to low-risk missions, such as gathering intel, delivering messages, or escorting minor caravans.
