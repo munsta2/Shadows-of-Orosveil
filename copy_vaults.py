@@ -78,11 +78,12 @@ def run_powershell_command(command):
 # Example usage:
 # copy_folder('/path/to/source_folder', '/path/to/destination', overwrite=True)
 
-# testing something
+# testing somethingD:\Jesse\Documents\Orosveil\Player Recap
 
 copy_folder("../Orosveil/World","./content",True)
 copy_folder("../Orosveil/Images","./content",True)
 copy_folder("../Orosveil/Orosveil Player’s Handbook","./content",True)
+copy_folder("../Orosveil/Player Recap","./content",True)
 create_markdown_file()
 argument = None
 if len(sys.argv) > 1:

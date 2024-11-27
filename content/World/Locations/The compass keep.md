@@ -6,6 +6,8 @@
 
 ### Description
 ---
+
+
 **Overview**:
 The Compass Keep stands as a grand and imposing guildhall, a stone fortress that symbolizes unity, honor, and the spirit of exploration that The Silver Circle upholds. Built from dark gray stone with silver accents, the keep’s architecture reflects both strength and sophistication. The central courtyard is open to the sky, where guild members gather to train, share stories, and prepare for their next quests. High on the outer walls is a large sigil of The Silver Circle—a silver ring encircling a stylized compass rose, visible to all who approach.
 
