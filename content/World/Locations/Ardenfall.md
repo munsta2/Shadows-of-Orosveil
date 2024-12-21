@@ -19,12 +19,12 @@
 
 ### Districts
 ---
-- **The Grand Bazaar** – The bustling center of Ardenfall’s trade, packed with vendors and artisans selling unique items and goods from across the world.
+- [[The Grand Bazaar]] – The bustling center of Ardenfall’s trade, packed with vendors and artisans selling unique items and goods from across the world.
 - **The High Quarters** – A district where wealthier residents, noble families, and prominent merchants live, known for its luxurious homes and private estates.
 - **The Enclave of Whispers** – A shadowy area dedicated to information brokers and those dealing in secrets, often frequented by spies and adventurers seeking leads.
 - **The Docks** – The city’s port area, lively with sailors, traders, and warehouses. It’s the main point of entry for goods from distant lands.
 - **The Crafting Ward** – Home to Ardenfall’s most skilled artisans, blacksmiths, alchemists, and jewelers, providing high-quality goods for both the city and surrounding regions.
-- **The Gilded Court** – A luxurious casino district catering to Ardenfall’s wealthiest citizens, as well as visiting nobles and merchants. Known for its high-stakes gambling halls, opulent lounges, and elite clubs, The Gilded Court is a place where fortunes are won, lost, and gambled in style.
+- **[[The Gilded Court]]** – A luxurious casino district catering to Ardenfall’s wealthiest citizens, as well as visiting nobles and merchants. Known for its high-stakes gambling halls, opulent lounges, and elite clubs, The Gilded Court is a place where fortunes are won, lost, and gambled in style.
 ### Inhabitants and Culture
 ---
 **Demographics**:  Primarily humans, dwarves, and halflings, with a significant number of elves, half-elves, and tieflings, due to the city’s cosmopolitan trade culture.

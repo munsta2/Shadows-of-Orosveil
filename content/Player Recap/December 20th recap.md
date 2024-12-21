@@ -1,0 +1,9 @@
+### **Session Recap**
+
+The party began their day at **The Compass Keep**, where **Vaelan Emberstone** sought to impress **Captain Lyris Oakhelm** with his sparring skills. In a tense match against **Zillgy**, Vaelan emerged victorious 2-1, earning a small nod of approval from the captain. Meanwhile, **Nekis Bigbluff** decided to join in the sparring, first challenging Vaelan and losing decisively, then attempting a bout with Captain Oakhelm herself. Unfortunately, Nekis was soundly defeated and left nursing his wounds.
+
+With their sparring concluded, the group set out for the city of **Ardenfall**. Along the way, they passed the turnoff to **Emberhold**, the ancestral home of Vaelan Emberstone. Nekis, eager to reach the casinos in Ardenfall, took control of the wagon reins and sped past without hesitation, much to the chagrin of Vaelan.
+
+Upon reaching Ardenfall, the party ventured into **The Gilded Court**, the city’s luxurious casino district. They entered **The Silver Coin Casino**, run by the infamous **House of Varnoss**, persuading the bouncer to waive the cover charge. After trying their luck at various games, Nekis found himself invited to the exclusive high-rollers’ area known as "The Vault." There, he managed to double his winnings, drawing the ire of the Varnoss family. His luck didn’t last long, however, as the group was swiftly escorted out of the casino by the unimpressed hosts.
+
+Next, the party headed to the college to meet with **Baron Von Strik**, a scholar with a vested interest in the group’s abilities. He tasked the adventurers with retrieving a relic from a nearby cave for his research. In exchange, he offered 20 gold coins per party member, with the promise of an additional tip if the artifact is retrieved in pristine condition.
