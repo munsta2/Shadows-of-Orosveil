@@ -13,6 +13,32 @@ Example:
 ![[Pasted image 20241023192915.png]]
 
 The red would be the new 2024 rules where as the blue is the old 2014 rules.
+
+## <u> Note taking </u>
+
+I highly recommend players take some form of notes throughout the campaign. 
+
+Since we're playing bi weekly there's a good chance you might forget some details that might be important down the road.
+
+When I play as a player here's stuff I like to take notes on:
+
+- any important characters I meet and what purpose do they serve in regards to my player
+- Any quests that I might want to try and complete
+- Any details I noticed that I think would be good to know for later 
+- questions that I have that I want to try to get answered 
+
+
+## <u>Learning your character </u> 
+
+After you finishing creating your character (for more info look to the [[Creating Your Character for Shadows of Orosveil]] guide ) I highly recommend to take some time to learn your characters skills and abilities that come from your class
+
+This means learning the type of spells/ attacks of other things your character might be able to do.
+
+Since we're going to be a bigger group combat is going to take longer. One way we can help speed it up is by knowing how your character works so your not spending time during your turn wondering what you should do
+
+
+
+
 ## <u>Tools for Player</u> 
 
 Link for Digital version of the [Players Handbook](https://the-eye.eu/public/Books/rpg.rem.uz/Dungeons%20%26%20Dragons/D%26D%205th%20Edition/Core/Player%27s%20Handbook.pdf)
