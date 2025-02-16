@@ -70,7 +70,7 @@ def run_powershell_command(command):
     - command (str): The PowerShell command to execute.
 
     Returns:
-    - The output of the command as a string.
+    - The output of the co mmand as a string.
     """
     result = subprocess.run(["powershell", "-Command", command], capture_output=True, text=True)
     return result.stdout

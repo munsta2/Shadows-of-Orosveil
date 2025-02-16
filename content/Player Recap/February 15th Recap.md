@@ -6,7 +6,7 @@ The journey began in the darkened depths of the cave where the party successfull
 
 Sensing the danger, **Vaelan** took the orb from him. But as soon as his fingers wrapped around its surface, a voice **spoke directly into his mind**:
 
-> _“Free us, Vaelan… free us… Redeem your family… Right your family’s mistake.”_
+> _“Free us, Vaelan…. free us… Redeem your family… Right your family’s mistake.”_
 
 The cryptic words left Vaelan unsettled, hinting at a deeper connection between his lineage and the artifact they now carried. Whatever its true nature, it was clear—the orb was no ordinary relic.
 
